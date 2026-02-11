@@ -1,6 +1,6 @@
 body { background-color:black; color:yellow;font-family: arial, sans-serif; text-align: center; margin: 0; padding: one hundred px zero; }
 img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
-h1, p { color: yellow; text-shadow: 0 0 two px purple; position: absolute; left: 50%; top: 10%; transform: translate(-50%, 0); }
+h1, p { color: yellow; text-shadow: 0 0 two 8px rgba(255, 0, 255, 0.6); position: absolute; left: 50%; top: 10%; transform: translate(-50%, 0); }
 body { z-index: 1; padding: 2em; }
 h1 { font-size:3em; }
 p { font-size: one point five e m; }
